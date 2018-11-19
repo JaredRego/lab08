@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pins = '0 1 2 3'
+pins='0 1 2 3'
 
 for pins in $pins
 do
